@@ -23,3 +23,6 @@ decode_key(inputString)
 
 
 binaryTreeDecoder("111001111101011010")
+
+If you run the code as is, run both blocks. The first block will result in the the encoded bit stream along with the decode key in the following order: encoded bit stream, decode key. 
+The second block will result in the decoded string along with the length of the decoded string in the order: decoded string, length
