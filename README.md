@@ -16,7 +16,6 @@ inputString = "0011000000011000"
 
 binaryTreeEncoder(inputString)
 
-
 decode_key(inputString)
 
 
