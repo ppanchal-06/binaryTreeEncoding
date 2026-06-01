@@ -23,3 +23,7 @@ decode_key(inputString)
 
 
 binaryTreeDecoder("111001111101011010")
+
+
+
+If using code directly after downloading run all blocks. The first block will print the encoded string and decoded key in the following format: encoded string, decode key. The second block will print the decoded input stream.
