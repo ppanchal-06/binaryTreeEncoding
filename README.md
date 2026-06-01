@@ -9,8 +9,18 @@ To decode the string to the original data stream, use the function binaryTreeDec
 
 EXAMPLE of use: 
 inputString = "0011000000011000"
+
+
 -- encode the string---
+
+
 binaryTreeEncoder(inputString)
+
+
 decode_key(inputString)
+
+
 --to decode the string--
+
+
 binaryTreeDecoder("111001111101011010")
